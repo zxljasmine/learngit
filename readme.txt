@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes. 2
 Creating a new branch is quick and simple.
 add merge
+Now I'll start to try stash
